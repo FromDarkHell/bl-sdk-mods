@@ -20,7 +20,7 @@
       "latest": "1.0",
       "supports": ["BL2"],
       "versions": {
-        "1.0": "https://github.com/FromDarkHell/bl-sdk-mods/raw/master/CustomSkins/CustomSkins.zip"
+        "1.0": "https://github.com/FromDarkHell/bl-sdk-mods/blob/main/CustomSkins/CustomSkins.zip?raw=true"
       }
     }
   ]
