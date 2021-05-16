@@ -9,13 +9,12 @@
     {
       "name": "Custom Skins",
       "description": [
-        "A simple mod allowing you to have custom character skins, all selectable!",
-        "Hit R in the mod menu to reload your skins",
-        "Press O to open your skin folder"
+        "A simple mod allowing you to have custom character skins, all selectable!\n",
+        "- Hit R in the mod menu to reload your skins\n",
+        "- Press O to open your skin folder\n",
+        "Toggle skins in the Options menu, sorted by character"
       ],
-      "tagline": [
-        "Gives you the ability to have custom character skins, and create your own!"
-      ],
+      "tagline": "Gives you the ability to have custom character skins, and create your own!",
       "types": ["Content"],
       "latest": "1.0",
       "supports": ["BL2"],
