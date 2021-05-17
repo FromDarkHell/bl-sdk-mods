@@ -21,6 +21,24 @@
       "versions": {
         "1.0": "https://github.com/FromDarkHell/bl-sdk-mods/blob/main/CustomSkins/CustomSkins.zip?raw=true"
       }
+    },
+    {
+      "name": "Skill Saver",
+      "description": [
+        "This mod gives you the ability to save your current skill build, then restore right back to it later.\n",
+        "When in game, hit your `Manage Skill Layouts` bind (Default: F3)\n",
+        "Then choose whether or not you want to save your current skill build, then type in your skill build's name!\n",
+        "From here, you can then restore back to that build for your current character class"
+      ],
+      "tagline": "Allows for you to save your current skill build and then restore right back to it later!",
+      "types": ["Utility", "Gameplay"],
+      "latest": "1.0",
+      "versions": {
+        "1.0": "https://github.com/FromDarkHell/bl-sdk-mods/blob/main/SkillSaver/SkillSaver.zip?raw=true"
+      },
+      "requirements": {
+        "UserFeedback": ">=1.5"
+      }
     }
   ]
 }
